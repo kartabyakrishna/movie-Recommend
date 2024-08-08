@@ -1,5 +1,7 @@
 # Movie Recommender System
 
+![Movie Recommender System Demo](https://github.com/kartabyakrishna/KartabyaKrishna/blob/main/Assets/movie-Recommend/movie-Recommend.gif)
+
 ## Overview
 
 The **Movie Recommender System** is designed to provide personalized movie recommendations based on user input. The system uses a content-based filtering approach, leveraging data from The Movie Database (TMDB) to identify similarities between movies. By analyzing various features such as genres, cast, crew, and keywords, the system can suggest movies that are closely related to a user's choice.
